@@ -5,22 +5,24 @@ A gamepad consisting of 2 Joysticks, 12 buttons and powered by Waveshare RP2040 
 <img width="1420" height="810" alt="7" src="https://github.com/user-attachments/assets/ae35d147-2c69-4dff-bf54-916d4e487950" />
 
 ## Features
-- 2x 360 degree Joysticks
-- 12 buttons
-- Colorful LCB Display
+
+-   2x 360 degree Joysticks
+-   14 buttons
+-   Customizable firmware
 
 ## Bill of Materials
 
 | No. | Name                            | Quantity | Price (INR) | Cost (INR) | Cost (USD) | Source                                                                               |
 | --- | ------------------------------- | -------- | ----------- | ---------- | ---------- | ------------------------------------------------------------------------------------ |
-| 1   | Joystick                        | 2        | 35          | 70         | 0.91       | https://makerbazar.in/products/joystick                                              |
-| 2   | TH Switches 6mmx6mm             | 10       | 2           | 20         | 0.26       | https://makerbazar.in/products/small-push-button-switch?variant=44840000880880       |
-| 3   | TH Switches 6mmx6mm Right Angle | 2        | 3           | 6          | 0.078      | https://robu.in/product/kfc-a06w1-7-0-tact-switch-with-bracket-2-pin6x6x7            |
-| 4   | Rp2040                          | 1        | 224         | 224        | 2.912      | https://robu.in/product/rp2040-zero-for-raspberry-pi-microcontroller-with-soldering/ |
-| 5   | PCB (Option 1)                  | 1        | 2010        | 2010       | 26.13      | https://robu.in/product/online-pcb-manufacturing-service/                            |
-|     | PCB (Option 2)                  | 1        | 2025        | 2025       | 26.325     | https://jlcpcb.com/                                                                  |
+| 1   | Joystick                        | 2        | 35          | 70         | 0.77       | https://makerbazar.in/products/joystick                                              |
+| 2   | TH Switches 6mmx6mm             | 10       | 2           | 20         | 0.22       | https://makerbazar.in/products/small-push-button-switch?variant=44840000880880       |
+| 3   | TH Switches 6mmx6mm Right Angle | 2        | 3           | 6          | 0.066      | https://robu.in/product/kfc-a06w1-7-0-tact-switch-with-bracket-2-pin6x6x7            |
+| 4   | Rp2040                          | 1        | 224         | 224        | 2.464      | https://robu.in/product/rp2040-zero-for-raspberry-pi-microcontroller-with-soldering/ |
+| 5   | PCB (Option 1)                  | 1        | 2010        | 2010       | 22.11      | https://robu.in/product/online-pcb-manufacturing-service/                            |
+|     | PCB (Option 2)                  | 1        | 2025        | 2025       | 22.275     | https://jlcpcb.com/                                                                  |
+|  |
 
-**Total**: ~30$
+**Total**: ~26$
 
 ## Schematic
 
